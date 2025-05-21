@@ -1,2 +1,2 @@
 # provisioner-exit
-Exit step of Massdriver provisioner
+Exit handler image of Massdriver provisioner
